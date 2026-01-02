@@ -47,3 +47,15 @@ The analysis is done in the following steps:
 - ARIMAX performed the best overall, showing how useful extra information can be.
 - ETS gave smooth predictions with clear seasonal patterns and easy-to-understand uncertainty ranges.
 - ARIMA was a solid baseline, but didn’t do as well when more data was available.
+
+---
+
+## How to Run the Notebook
+- Open the file uk_hpi_Dec.ipynb in Google Colab.
+- Upload or connect to the UK HPI dataset.
+- Run each cell one after the other, starting from the top.
+- The plots and results will be saved automatically in the results_dissertation folder.
+
+## License
+
+This project is released under the MIT License.
