@@ -39,7 +39,7 @@ The analysis is done in the following steps:
 
 ## Structure
 - uk_hpi_Dec.ipynb – Main Google Colab notebook containing all analysis and models
-- results_dissertation/ – Saved plots, forecasts, and evaluation metrics
+- results_dissertation – Saved plots, forecasts, and evaluation metrics
 
 ---
 
