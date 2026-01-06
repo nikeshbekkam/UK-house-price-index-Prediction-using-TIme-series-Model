@@ -52,6 +52,3 @@ The analysis is done in the following steps:
 - The plots and results will be saved automatically in the results_dissertation folder.
 
 ---
-## License
-
-This project is released under the MIT License.
